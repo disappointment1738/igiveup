@@ -1,0 +1,29 @@
+body{
+    font-family: "serif";
+    background-imagine: linear-gradient(white, gray);
+}
+img {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+}
+p{
+    text-align: left;
+    font-size: 45px;
+    background-color: white;
+}
+p2{
+    text-align: left;
+    position: absolute;
+    left: 5%;
+}
+p3{
+    font-size: 35px;
+    position: absolute;
+    left: 50%;
+    margin-right: -50%;
+    transform: translate(-50%, -50%)
+}
+p4{
+    margin-right: -5%;
+}
